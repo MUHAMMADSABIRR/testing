@@ -1,0 +1,136 @@
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git add .               (step No 1)
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git status              (step No 2)
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git commit -m "yai ha"  (step No 3)
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git push                (step No 4)
+----------------------------------------------------------------------------------------------
+Microsoft Windows [Version 10.0.19045.2728]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A> git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>add  git add .
+'add' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git add .
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/DSA LAB 1.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/DSA LAB 4.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/DSA LAB2.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/dsa lab index.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/dsa.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/dsalab9.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab 10 dsa.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab 12dsa.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab 2 dsa.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab 3 Dsa.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab 5 stack.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab 6.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab 7.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab11 dsa.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/lab8Dsa.docx
+        new file:   DATA STRUCTURE AND ALGORITHUM LAB/~$b 2 dsa.docx
+        new file:   LOGIC DESIGN LAB/1. LAB FILE ESSENTIALS Computer Programming 1B (10).docx
+        new file:   LOGIC DESIGN LAB/CALD-Lab-Manual.pdf
+        new file:   LOGIC DESIGN LAB/CALLED LAB 2.docx
+        new file:   LOGIC DESIGN LAB/INDEX PAGES.docx
+        new file:   LOGIC DESIGN LAB/LAB 11 Boolean Algebra And Logic Simplification (1).docx
+        new file:   LOGIC DESIGN LAB/LAB 12 Exposure Of Different Flip Flops.docx
+        new file:   LOGIC DESIGN LAB/LAB 4 CALL.docx
+        new file:   LOGIC DESIGN LAB/LAB CALLED 1.docx
+        new file:   LOGIC DESIGN LAB/Nazia.docx
+        new file:   LOGIC DESIGN LAB/cald lab 10.docx
+        new file:   LOGIC DESIGN LAB/caldlab11.docx
+        new file:   LOGIC DESIGN LAB/caldlab12.docx
+        new file:   LOGIC DESIGN LAB/called lab 3.docx
+        new file:   LOGIC DESIGN LAB/called lab 6.docx
+        new file:   LOGIC DESIGN LAB/indexlab12.docx
+        new file:   LOGIC DESIGN LAB/lab 5 called.docx
+        new file:   LOGIC DESIGN LAB/lab 7.docx
+        new file:   LOGIC DESIGN LAB/lab 8.docx
+        new file:   LOGIC DESIGN LAB/lab 9.docx
+        new file:   LOGIC DESIGN LAB/lab13cald.docx
+        new file:   LOGIC DESIGN LAB/labcald.docx
+
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git commit -m "yai ha"
+[main (root-commit) 3038619] yai ha
+ 37 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/DSA LAB 1.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/DSA LAB 4.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/DSA LAB2.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/dsa lab index.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/dsa.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/dsalab9.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab 10 dsa.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab 12dsa.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab 2 dsa.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab 3 Dsa.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab 5 stack.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab 6.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab 7.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab11 dsa.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/lab8Dsa.docx
+ create mode 100644 DATA STRUCTURE AND ALGORITHUM LAB/~$b 2 dsa.docx
+ create mode 100644 LOGIC DESIGN LAB/1. LAB FILE ESSENTIALS Computer Programming 1B (10).docx
+ create mode 100644 LOGIC DESIGN LAB/CALD-Lab-Manual.pdf
+ create mode 100644 LOGIC DESIGN LAB/CALLED LAB 2.docx
+ create mode 100644 LOGIC DESIGN LAB/INDEX PAGES.docx
+ create mode 100644 LOGIC DESIGN LAB/LAB 11 Boolean Algebra And Logic Simplification (1).docx
+ create mode 100644 LOGIC DESIGN LAB/LAB 12 Exposure Of Different Flip Flops.docx
+ create mode 100644 LOGIC DESIGN LAB/LAB 4 CALL.docx
+ create mode 100644 LOGIC DESIGN LAB/LAB CALLED 1.docx
+ create mode 100644 LOGIC DESIGN LAB/Nazia.docx
+ create mode 100644 LOGIC DESIGN LAB/cald lab 10.docx
+ create mode 100644 LOGIC DESIGN LAB/caldlab11.docx
+ create mode 100644 LOGIC DESIGN LAB/caldlab12.docx
+ create mode 100644 LOGIC DESIGN LAB/called lab 3.docx
+ create mode 100644 LOGIC DESIGN LAB/called lab 6.docx
+ create mode 100644 LOGIC DESIGN LAB/indexlab12.docx
+ create mode 100644 LOGIC DESIGN LAB/lab 5 called.docx
+ create mode 100644 LOGIC DESIGN LAB/lab 7.docx
+ create mode 100644 LOGIC DESIGN LAB/lab 8.docx
+ create mode 100644 LOGIC DESIGN LAB/lab 9.docx
+ create mode 100644 LOGIC DESIGN LAB/lab13cald.docx
+ create mode 100644 LOGIC DESIGN LAB/labcald.docx
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>git push
+Enumerating objects: 40, done.
+Counting objects: 100% (40/40), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (40/40), done.
+Writing objects: 100% (40/40), 8.49 MiB | 59.00 KiB/s, done.
+Total 40 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), done.
+To https://github.com/MUHAMMADSABIRR/LAB3A.git
+ * [new branch]      main -> main
+
+C:\Users\M SABIR\Desktop\THIRD SEMESTER\LAB3A>ye le upload ho ga a ab check krok
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
